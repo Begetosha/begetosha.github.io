@@ -14,7 +14,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-<iframe mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi" frameborder="0" src="https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true" style="min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" scrolling="no"></iframe>
+<iframe src="https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/" target="_parent"></iframe>
 
 {% highlight ruby %}
 def print_hi(name)
