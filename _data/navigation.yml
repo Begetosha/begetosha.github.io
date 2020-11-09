@@ -1,0 +1,5 @@
+main:
+  - title: "Контакты"
+    url: /about/contact
+  - title: "О нас"
+    url: /contact
