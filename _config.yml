@@ -122,8 +122,11 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square" fab fa-telegram
       # url:
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "@"tg://resolve?domain=berny_devil"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
