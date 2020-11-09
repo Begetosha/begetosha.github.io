@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
+title: О нас
 permalink: /about/
 ---
-Личный сайт для канала [Пицца с хентаем]
-(https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg)
+Личный сайт для канала [Пицца с хентаем](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg)
