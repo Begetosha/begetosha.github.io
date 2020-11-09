@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "@"tg://resolve?domain=berny_devil"
+      url: "tg://resolve?domain=berny_devil"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
