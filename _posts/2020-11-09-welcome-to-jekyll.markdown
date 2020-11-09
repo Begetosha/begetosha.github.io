@@ -8,6 +8,11 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 Jekyll requires blog post files to be named according to the following format:
 
+
+<object width="550" height="550" id="swfobject_embed" type="application/x-shockwave-flash" data="https://uploads.ungrounded.net/603000/603921_Rock_Candy_[Onihole].swf?123" style="visibility: visible;">
+</object>
+
+
 `YEAR-MONTH-DAY-title.MARKUP`
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
