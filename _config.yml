@@ -15,12 +15,12 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "default", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ru-RU"
 title                    : "Пицца с Хентаем"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Пиццевой магнат представляет"
+description              : "Пицца с Хентаем везде!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Хозяин"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Просто **офигетельно** скромный человек"
+  location         : "Планирую переезд на Марс"
   email            :
   links:
     - label: "Email"
@@ -217,7 +217,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
