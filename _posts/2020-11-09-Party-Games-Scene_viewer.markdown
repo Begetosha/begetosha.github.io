@@ -2,10 +2,8 @@
 header:
   teaser: /assets/images/stuffy-bunny-moment.jpg
 
-image:
-  path: /assets/images/stuffy-bunny-moment.jpg
-  height: 100
-  width: 100
+image: /assets/images/stuffy-bunny-moment.jpg
+
 
 
 
