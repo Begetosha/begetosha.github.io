@@ -1,8 +1,7 @@
 ---
 header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
+  teaser: /assets/images/teaser.png
+  og_image: /assets/images/teaser.png
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
