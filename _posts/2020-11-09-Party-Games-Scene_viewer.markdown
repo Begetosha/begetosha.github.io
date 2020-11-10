@@ -2,7 +2,7 @@
 header:
   teaser: /assets/images/stuffy-bunny-moment-teaser.jpg
 
-image: /assets/images/stuffy-bunny-moment.jpg
+image: /assets/images/stuffy-bunny-moment-teaser.jpg
 
 
 
