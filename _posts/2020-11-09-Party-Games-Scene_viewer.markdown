@@ -1,7 +1,8 @@
 ---
 header:
   teaser: /assets/images/stuffy-bunny-moment.jpg
-  og_image: /assets/images/stuffy-bunny-moment.jpg
+
+image: /assets/images/stuffy-bunny-moment.jpg
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
