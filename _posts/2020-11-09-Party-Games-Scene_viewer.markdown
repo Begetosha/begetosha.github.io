@@ -32,8 +32,12 @@ gallery:
 
 ---
 
-  <meta property="og:image" content="/assets/images/stuffy-bunny-moment.jpg">
-  
+{% if page.image %}
+<meta property="og:image" content="path/to/post/image.jpg">
+{% else %}
+<meta property="og:image" content="path/to/page/image.jpg">
+{% endif %}
+
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
 [Смотри тут видео, сочнее сам еще не видел](https://t.me/c/1176368763/73)
