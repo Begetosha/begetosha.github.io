@@ -8,7 +8,7 @@ image:
   width: 100
 
 
-  <meta property="og:image" content="/assets/images/stuffy-bunny-moment.jpg">
+
 
 
 layout: single
@@ -31,6 +31,9 @@ gallery:
     title: "Image 3 title caption"
 
 ---
+
+  <meta property="og:image" content="/assets/images/stuffy-bunny-moment.jpg">
+  
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
 [Смотри тут видео, сочнее сам еще не видел](https://t.me/c/1176368763/73)
