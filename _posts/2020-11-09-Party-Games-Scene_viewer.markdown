@@ -30,6 +30,9 @@ gallery:
 
 {% include figure image_path="/assets/images/stuffy-bunny-moment.jpg" alt="А это описание" caption="Тут подпись." %}
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+
 [Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
 
 
