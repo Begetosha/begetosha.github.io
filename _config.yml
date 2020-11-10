@@ -150,7 +150,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - footer.html
+  - _games
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
