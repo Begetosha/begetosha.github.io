@@ -29,7 +29,6 @@ gallery:
 
 ---
 
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
