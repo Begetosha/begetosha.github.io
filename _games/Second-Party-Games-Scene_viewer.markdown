@@ -43,7 +43,7 @@ gallery:
         </div>
 
         <!-- Run the game code -->
-        <script type="text/javascript" src="html5game/Foxtoy.js?ORDZB=1946888957"></script>
+        <script type="text/javascript" src="/fox-toy/html5game/Foxtoy.js?ORDZB=1946888957"></script>
         <script>window.onload = GameMaker_Init;</script>
     </body>
 </html>
