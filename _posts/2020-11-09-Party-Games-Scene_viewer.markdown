@@ -1,7 +1,7 @@
 ---
 
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/stuffy-bunny-moment.jpg
   og_image: /assets/images/page-header-og-image.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
