@@ -14,7 +14,7 @@ categories: blowjob anal dp hot very
 
 Тут будет картинка
 
-{% include figure image_path="/assets/images/stuffy-bunny-moment.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="/assets/images/stuffy-bunny-moment.jpg" alt="А это описание" caption="Тут подпись." %}
 
 [Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
 
