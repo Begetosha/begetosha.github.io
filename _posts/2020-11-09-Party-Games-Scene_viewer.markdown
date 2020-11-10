@@ -4,6 +4,7 @@ header:
   overlay_image: /assets/images/stuffy-bunny-moment.jpg
   og_image: /assets/images/stuffy-bunny-moment.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/images/stuffy-bunny-moment.jpg
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
