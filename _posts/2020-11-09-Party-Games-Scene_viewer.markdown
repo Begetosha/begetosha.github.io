@@ -2,7 +2,7 @@
 
 header:
   overlay_image: /assets/images/stuffy-bunny-moment.jpg
-  og_image: /assets/images/page-header-og-image.png
+  og_image: /assets/images/stuffy-bunny-moment.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
