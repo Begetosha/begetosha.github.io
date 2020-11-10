@@ -1,5 +1,6 @@
 ---
-teaser: /assets/images/stuffy-bunny-moment.jpg
+header:
+  teaser: /assets/images/stuffy-bunny-moment.jpg
 layout: single
 classes: wide
 title:  "Вечериночные игры, просмотр ПОРНО сцен"
@@ -8,9 +9,12 @@ categories: blowjob anal dp hot very
 
 ---
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
+
 [Смотри тут видео, сочнее сам еще не видел](https://t.me/c/1176368763/73)
 
 Тут будет картинка
+
+{% include figure image_path="/assets/images/stuffy-bunny-moment.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 [Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
 
