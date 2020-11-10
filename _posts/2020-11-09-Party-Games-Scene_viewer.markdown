@@ -7,6 +7,12 @@ image:
   height: 100
   width: 100
 
+{% if page.image %}
+  <meta property="og:image" content="/assets/images/stuffy-bunny-moment.jpg">
+{% else %}
+  <meta property="og:image" content="/assets/images/stuffy-bunny-moment.jpg">
+{% endif %}
+
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
