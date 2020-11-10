@@ -2,7 +2,10 @@
 header:
   teaser: /assets/images/stuffy-bunny-moment.jpg
 
-image: /assets/images/stuffy-bunny-moment.jpg
+image:
+  path: /assets/images/stuffy-bunny-moment.jpg
+  height: 100
+  width: 100
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
