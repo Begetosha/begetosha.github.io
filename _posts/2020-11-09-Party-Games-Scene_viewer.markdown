@@ -1,13 +1,6 @@
 ---
 header:
-  teaser: /assets/images/stuffy-bunny-moment-teaser.jpg
-
-image: /assets/images/stuffy-bunny-moment-teaser.jpg
-
-
-
-
-
+  teaser: /assets/images/teaser.png
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
@@ -29,12 +22,6 @@ gallery:
     title: "Image 3 title caption"
 
 ---
-
-{% if page.image %}
-<meta property="og:image" content="path/to/post/image.jpg">
-{% else %}
-<meta property="og:image" content="path/to/page/image.jpg">
-{% endif %}
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
