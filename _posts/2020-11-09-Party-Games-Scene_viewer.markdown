@@ -1,7 +1,7 @@
 ---
 header:
-  teaser: /assets/images/teaser.png
-  og_image: /assets/images/teaser.png
+  teaser: https://cdn.pixabay.com/photo/2016/11/19/02/19/adfasdf-1837692_1280.jpg
+  og_image: https://cdn.pixabay.com/photo/2016/11/19/02/19/adfasdf-1837692_1280.jpg
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
