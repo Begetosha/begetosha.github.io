@@ -1,6 +1,8 @@
 ---
 header:
-  teaser: /assets/images/teaser.png
+  video:
+    id: XsxDH4HcOWA
+    provider: youtube
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
@@ -22,6 +24,8 @@ gallery:
     title: "Image 3 title caption"
 
 ---
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
