@@ -30,104 +30,7 @@ gallery:
 
 ---
 
-<div class="column" id="content_area" itemscope="" itemtype="https://schema.org/WebApplication" style="width: 996px; margin: 0px -3px;">
-			<meta itemprop="datePublished" content="2020-05-20T15:48:07-0400">
-		<meta itemprop="url" content="https://www.newgrounds.com/portal/view/755672">
-
-
-				<meta itemprop="thumbnailUrl" content="https://picon.ngfiles.com/755000/flash_755672_largest_crop.png?f1600893798">
-		<meta itemprop="description" content="Another update for this parody featuring Midna!">
-					<meta itemprop="applicationCategory" content="Game">
-
-	<script>
-		jQuery('#content_area').show();
-	</script>
-
-		<div class="pod embed">
-		<div class="pod-head" id="embed_header">
-			<h2 class="rated-a" itemprop="name">(+18) Legend of the Spirit Orbs v1.1</h2>
-
-
-			<div itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
-									<meta itemprop="worstRating" content="0">
-					<meta itemprop="bestRating" content="10">
-					<meta itemprop="ratingCount" content="1036">
-					<meta itemprop="ratingValue" content="8.6432800258">
-
-
-		<span>
-		<a href="https://www.newgrounds.com/flag/add/755672/2" id="flag" class="icon-flag" rel="nofollow" title="Report abuse">
-			Report Abuse		</a>
-	</span>
-
-	<script>
-	ngutils.flagging_options.register(jQuery('#flag'), {
-		__ng_design: "2015"	});
-	</script>
-
-
-<span>
-	<a class="icon-share" href="https://www.newgrounds.com/content/share/755672/2" id="share_content" rel="nofollow" title="Share">Share</a>
-</span>
-<script>
-	ngutils.sharebox.register(jQuery('#share_content'));
-</script>
-
-	<span style="">
-		<a class="icon-min" href="#" title="Collapse" rel="nofollow" id="collapse_item">Collapse</a>
-	</span>
-	<script type="text/javascript">
-	(function($) {
-		$(document).ready(function() {
-			var $content_pod = $('#embed_podcontent');
-			var $sizer_pod = $('#embed_sizer');
-			var html = null;
-
-			$('#collapse_item').click(function() {
-				var $el = $(this);
-				if ($content_pod.is(':visible')) {
-					$content_pod.hide();
-					html = $sizer_pod[0].innerHTML;
-					$sizer_pod.empty();
-					$el.removeClass().addClass('icon-max');
-					$el.attr('title', 'Expand');
-				} else {
-					$content_pod.show();
-					$sizer_pod[0].innerHTML = html;
-					$el.removeClass().addClass('icon-min');
-					$el.attr('title', 'Collapse');
-				}
-			});
-		});
-	})(jQuery);
-	</script>
-
-
-	<span>
-		<a href="https://www.newgrounds.com/playlists/addentry/755672/3" id="add_to_playlist" class="icon-playlist" title="Add to playlist" rel="nofollow">Add to playlist</a>
-	</span>
-	<script>
-		ngutils.playlist_form.register(jQuery('#add_to_playlist'));
-	</script>
-
-
-	<span class="favefollow-buttons" id="ffr_ffr_5faa6bb7b8c57_1">
-	<span class="favefollow-add">
-		<a href="" data-action="add" title="Add To Favorites" class="fave-item"><span>Add To Favorites</span></a>
-	</span>
-	<span class="favefollow-remove">
-		<a href="https://andrei-007.newgrounds.com//favorites" data-action="remove" title="Remove From Favorites" class="faved-item"><span>Favorited!</span></a>
-	</span>
-<span>
-<script type="text/javascript">
-	ngutils.initFavoriteButton("#ffr_ffr_5faa6bb7b8c57_1", "cdc4b%O4c5daf74413a%44f8O3f45a710ca%P4b0bdr04%%9022e4%7%2%14c%6e5ase2fd565aO2120r9767rs%ba5c89%%s3%5%1f1df5da191rfP1d38%13rP622a0e3r3bf62de0ff46e3a679b6ae8a87930dec5%s%4d7P%%O%rr141432290981146162", "ff-h-h-iQEr");
-</script>
-
-			</span></span></div>
-		</div>
-
-
-				<div class="pod-body breakout" id="embed_podcontent">
+<div class="pod-body breakout" id="embed_podcontent">
 
 
 				<div id="embed_wrapper" style="width: 477px; margin-left: 50%; height: 540px;">
@@ -246,10 +149,6 @@ gallery:
 	});
 // ]]>
 </script>					</div>
-	</div>
-
-
-</div>
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
 
@@ -262,7 +161,4 @@ gallery:
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
-[Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
-
-
-[Onihole](https://uploads.ungrounded.net/603000/603921_Rock_Candy_[Onihole].swf)
+[Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1467000/1467965_alternate_99885_r5.zip)
