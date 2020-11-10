@@ -32,6 +32,6 @@ gallery:
 
 Это пост в играх!
 
-<div id="html_embed_widget_53634" class="html_embed_widget embed_wrapper"><div data-height="640" data-width="360" class="game_frame game_loaded" style="width: 360px; height: 640px"><button title="Enter fullscreen" class="fullscreen_btn"><img src="https://itch.io/static/images/enlarge.svg?1604995250"></button><iframe mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/2304954/index.html?v=1591301569" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe></div></div>
+<iframe mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking" frameborder="0" src="//v6p9d9t4.ssl.hwcdn.net/html/2304954/index.html?v=1591301569" msallowfullscreen="true" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" id="game_drop" allowtransparency="true"></iframe>
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
