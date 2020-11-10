@@ -2,6 +2,9 @@
 header:
   teaser: /assets/images/stuffy-bunny-moment.jpg
   og_image: /assets/images/stuffy-bunny-moment.jpg
+
+  image:
+    path: /assets/images/stuffy-bunny-moment.jpg
 layout: single
 title:  "Вечериночные игры, просмотр ПОРНО сцен"
 date:   2020-11-09 17:04:53 +1200
