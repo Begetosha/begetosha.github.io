@@ -1,7 +1,12 @@
 ---
+
 header:
-  teaser: https://cdn.pixabay.com/photo/2016/11/19/02/19/adfasdf-1837692_1280.jpg
-  og_image: https://cdn.pixabay.com/photo/2016/11/19/02/19/adfasdf-1837692_1280.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  og_image: /assets/images/page-header-og-image.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn more"
+      url: "https://unsplash.com"
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
