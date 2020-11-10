@@ -10,9 +10,9 @@ header:
       url: "https://unsplash.com"
 
 layout: single
-title:  "Вечериночные игры, ПОРНО сцены"
+title:  "Поиграй с котиком"
 date:   2020-11-09 17:04:53 +1200
-categories: blowjob anal dp hot very
+categories: ok
 
 gallery:
   - url: /assets/images/stuffy-bunny-moment.jpg
@@ -32,19 +32,6 @@ gallery:
 
 Это пост в играх!
 
+<div data-iframe="<iframe mozallowfullscreen=&quot;true&quot; allow=&quot;autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking&quot; frameborder=&quot;0&quot; src=&quot;//v6p9d9t4.ssl.hwcdn.net/html/2304954/index.html?v=1591301569&quot; msallowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; id=&quot;game_drop&quot; allowtransparency=&quot;true&quot;></iframe>" class="iframe_placeholder"><button class="button load_iframe_btn"><svg stroke-linecap="round" stroke="currentColor" class="svgicon icon_play" role="img" version="1.1" viewBox="0 0 24 24" stroke-width="2" height="24" stroke-linejoin="round" aria-hidden="" fill="none" width="24"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg> Run game</button></div>
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
-
-[Смотри тут видео, сочнее сам еще не видел](https://t.me/c/1176368763/73)
-
-Тут будет картинка
-
-{% include figure image_path="/assets/images/stuffy-bunny-moment.jpg" alt="А это описание" caption="Тут подпись." %}
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-
-[Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
-
-
-[Onihole](https://uploads.ungrounded.net/603000/603921_Rock_Candy_[Onihole].swf)
