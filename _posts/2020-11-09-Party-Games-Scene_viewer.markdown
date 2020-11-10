@@ -1,6 +1,6 @@
 ---
 header:
-  teaser: /assets/images/stuffy-bunny-moment.jpg
+  teaser: /assets/images/stuffy-bunny-moment-teaser
 
 image: /assets/images/stuffy-bunny-moment.jpg
 
