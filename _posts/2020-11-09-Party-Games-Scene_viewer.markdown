@@ -1,6 +1,5 @@
 ---
-header:
-  teaser: /assets/images/stuffy-bunny-moment.jpg
+teaser: /assets/images/stuffy-bunny-moment.jpg
 layout: single
 classes: wide
 title:  "Вечериночные игры, просмотр ПОРНО сцен"
