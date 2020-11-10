@@ -1,9 +1,25 @@
 ---
-teaser: /assets/images/stuffy-bunny-moment.jpg
+header:
+  teaser: /assets/images/stuffy-bunny-moment.jpg
+
 layout: single
 title:  "Вечериночные игры, просмотр ПОРНО сцен"
 date:   2020-11-09 17:04:53 +1200
 categories: blowjob anal dp hot very
+
+gallery:
+  - url: /assets/images/stuffy-bunny-moment.jpg
+    image_path: /assets/images/stuffy-bunny-moment.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/stuffy-bunny-moment-1.jpg
+    image_path: /assets/images/stuffy-bunny-moment-1.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/stuffy-bunny-moment-2.jpg
+    image_path: /assets/images/stuffy-bunny-moment-2.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 
 ---
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
