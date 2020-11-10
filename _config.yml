@@ -282,7 +282,7 @@ collections:
 defaults:
   # _portfolio
   - scope:
-      path: ""
+      path: "_games"
       type: games
     values:
       layout: single
