@@ -1,10 +1,10 @@
 ---
 
 header:
-  overlay_image: /assets/images/begin.PNG
-  og_image: /assets/images/begin.PNG
+  overlay_image: /assets/images/fox-toy/begin.PNG
+  og_image: /assets/images/fox-toy/begin.PNG
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  image: /assets/images/begin.PNG
+  image: /assets/images/fox-toy/begin.PNG
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
@@ -15,12 +15,12 @@ date:   2020-11-09 17:04:53 +1200
 categories: ok
 
 gallery:
-  - url: /assets/images/begin.PNG
-    image_path: /assets/begin.PNG
+  - url: /assets/images/fox-toy/begin.PNG
+    image_path: /assets/fox-toy/begin.PNG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/midle.PNG
-    image_path: /assets/midle.PNG
+  - url: /assets/images/fox-toy/midle.PNG
+    image_path: /assets/images/fox-toy/midle.PNG
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 
