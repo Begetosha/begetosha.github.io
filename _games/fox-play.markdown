@@ -1,10 +1,10 @@
 ---
 
 header:
-  overlay_image: /assets/images/stuffy-bunny-moment.jpg
-  og_image: /assets/images/stuffy-bunny-moment.jpg
+  overlay_image: /assets/images/begin.PNG
+  og_image: /assets/images/begin.PNG
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  image: /assets/images/stuffy-bunny-moment.jpg
+  image: /assets/images/begin.PNG
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
@@ -15,18 +15,14 @@ date:   2020-11-09 17:04:53 +1200
 categories: ok
 
 gallery:
-  - url: /assets/images/stuffy-bunny-moment.jpg
-    image_path: /assets/images/stuffy-bunny-moment.jpg
+  - url: /assets/images/begin.PNG
+    image_path: /assets/begin.PNG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/stuffy-bunny-moment-3.jpg
-    image_path: /assets/images/stuffy-bunny-moment-3.jpg
+  - url: /assets/midle.PNG
+    image_path: /assets/midle.PNG
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/stuffy-bunny-moment-2.jpg
-    image_path: /assets/images/stuffy-bunny-moment-2.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
 
 ---
 
