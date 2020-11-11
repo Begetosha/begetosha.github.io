@@ -31,7 +31,7 @@ gallery:
 
 
 
-[Поиграем? ](/fox-toy/index.html){:target="_blank"}
+[Поиграем? ](/games_folder/fox-toy/index.html){:target="_blank"}
 Это пост в играх!
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
