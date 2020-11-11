@@ -28,24 +28,11 @@ gallery:
 
 
 
-<html lang="en">
-
-    <body>
-        <div class="gm4html5_div_class" id="gm4html5_div_id">
-            <!-- Create the canvas element the game draws to -->
-            <canvas id="canvas" width="480" height="640" >
-                     <p>Your browser doesn't support HTML5 canvas.</p>
-            </canvas>
-        </div>
-
-        <!-- Run the game code -->
-        <script type="text/javascript" src="/fox-toy/html5game/Foxtoy.js?ORDZB=1946888957"></script>
-        <script>window.onload = GameMaker_Init;</script>
-    </body>
-</html>
 
 
+[Поиграем? ][/fox-toy/index.html]
 Это пост в играх!
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
