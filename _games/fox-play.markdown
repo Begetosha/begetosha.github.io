@@ -31,7 +31,7 @@ gallery:
 
 
 
-[Поиграем? ][/fox-toy/index.html]
+[Поиграем? ](/fox-toy/index.html)
 Это пост в играх!
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
