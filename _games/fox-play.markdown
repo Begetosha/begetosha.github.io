@@ -16,7 +16,7 @@ categories: ok
 
 gallery:
   - url: /assets/images/fox-toy/begin.PNG
-    image_path: /assets/fox-toy/begin.PNG
+    image_path: /assets/images/fox-toy/begin.PNG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/fox-toy/midle.PNG
