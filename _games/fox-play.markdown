@@ -1,6 +1,7 @@
 ---
 
 header:
+  teaser: /assets/images/fox-toy/begin.PNG
   overlay_image: /assets/images/fox-toy/begin.PNG
   og_image: /assets/images/fox-toy/begin.PNG
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
