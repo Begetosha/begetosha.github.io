@@ -3,6 +3,6 @@
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-  <a href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}&text={{page.title}}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Telegram"><i class="fab fa-telegram" aria-hidden="true"></i><span> Telegram</span></a>
+  <a href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Telegram"><i class="fab fa-telegram" aria-hidden="true"></i><span> Telegram</span></a>
 
 </section>
