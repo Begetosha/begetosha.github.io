@@ -5,6 +5,10 @@
     {% assign path_type = nil %}
 {% endcase %}
 
+{% for games in site.categories.games %}
+  {{ games.output }}
+{% endfor %}
+
 {% if site.tag_archive.path %}
   {% comment %}
     <!-- Sort alphabetically regardless of case e.g. a B c d E -->
