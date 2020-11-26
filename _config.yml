@@ -282,6 +282,7 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
+
 #  categories:
 #    output: true
 #    permalink: /:name/ # optional
@@ -320,7 +321,7 @@ defaults:
       type: foo
     values:
       layout: single
-
+# tag
     - scope:
       path: ""
       type: tag
