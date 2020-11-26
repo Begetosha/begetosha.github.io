@@ -282,8 +282,8 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
-  categories:
-    output: true
+#  categories:
+#    output: true
 #    permalink: /:name/ # optional
 
 # Defaults
