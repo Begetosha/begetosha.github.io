@@ -5,7 +5,7 @@
 layout: collection
 header:
   overlay_image: /assets/images/main/hot.jpg
-
+  caption: "А где фулл картинки? [**ЗДЕСЬ**](/assets/images/main/hot.jpg)"
 collection: games
 entries_layout: grid
 classes: wide
