@@ -4,6 +4,6 @@ layout: tags
 permalink: /tags/
 # author_profile: true
 ---
-{% for games in site.tags.games %}
+{% for games in site.collection.games %}
   {{ games.output }}
 {% endfor %}
