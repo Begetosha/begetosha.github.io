@@ -4,7 +4,7 @@ title: Контакты
 permalink: /about/contact
 ---
 
-Написать админу в [Telegram](tg://resolve?domain=berny_devil)
+Написать админу в [Telegram](https://t.me/berny_devil)
 
 Новый контент завозят сюда:
-[Канал](tg://join?invite=AAAAAEYd9ntbFRi6jnMcFg)
+[Канал](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg)
