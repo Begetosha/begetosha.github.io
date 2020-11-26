@@ -13,7 +13,7 @@ header:
 layout: single
 title:  "Поиграй с лисом"
 date:   2020-11-09 17:04:53 +1200
-categories: ok
+categories: furry masturbate shortgame
 
 gallery:
   - url: /assets/images/fox-toy/begin.PNG

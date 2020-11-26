@@ -8,7 +8,7 @@ header:
 layout: single
 title:  "С новым годом"
 date:   2020-11-09 17:04:53 +1200
-categories: okkk
+categories: point_and_click new_year
 
 gallery:
   - url: /assets/images/chrismas/splash_image.png

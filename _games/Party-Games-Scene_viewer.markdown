@@ -9,12 +9,11 @@ header:
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
-      icon: "fab fa-fw fa-github"
 
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
-categories: blowjob anal dp hot very
+categories: blowjob anal dp scenes
 
 gallery:
   - url: /assets/images/stuffy-bunny-moment.jpg
