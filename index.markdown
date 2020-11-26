@@ -6,9 +6,9 @@ layout: collection
 header:
   overlay_image: /assets/images/main/hot.jpg
   caption: "Фулл с превью? [**ЗДЕСЬ**](/assets/images/main/hot.jpg)"
-actions:
-  - label: "Пицца с Хентаем в телеграме"
-    url: "https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg"
+  actions:
+    - label: "Пицца с Хентаем в телеграме"
+      url: "https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg"
 collection: games
 entries_layout: grid
 classes: wide
