@@ -320,3 +320,9 @@ defaults:
       type: foo
     values:
       layout: single
+
+    - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: false
