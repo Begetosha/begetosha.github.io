@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/main/hot.jpg
   caption: "Фулл с превью? [**ЗДЕСЬ**](/assets/images/main/hot.jpg)"
   actions:
-    - label: "Мы в телеграме"
+    - label: "<i class='fab fa-telegram'></i> Мы в телеграме"
       url: "https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg"
 collection: games
 entries_layout: grid
