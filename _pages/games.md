@@ -1,7 +1,7 @@
 ---
 title: Games
 layout: collection
-permalink: /games/posts
+permalink: /games
 collection: games
 entries_layout: grid
 classes: wide
