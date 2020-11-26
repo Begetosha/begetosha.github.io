@@ -1,6 +1,6 @@
 main:
   - title: "Игры"
-    url: /games/posts
+    url: /games
   - title: "Контакты"
     url: /about/contact
   - title: "О нас"
