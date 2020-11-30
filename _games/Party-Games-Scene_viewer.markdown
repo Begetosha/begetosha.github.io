@@ -14,7 +14,7 @@ title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
 # categories: blowjob anal dp scenes
 gallery:
-  - url: /assets/images/stuffy-bunny-moment.jpg
+  - url: /assets/images/stuffy-bunny-moment.jpg # Необязательно, ссылка на полную версию для галереи
     image_path: /assets/images/stuffy-bunny-moment.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
@@ -23,7 +23,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/testgif.gif
-    image_path: /assets/images/testgif.gif
+    image_path: /assets/images/testgif.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
