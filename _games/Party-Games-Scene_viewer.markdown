@@ -4,6 +4,7 @@ header:
   og_image: /assets/images/stuffy-bunny-moment.jpg  
   image: /assets/images/stuffy-bunny-moment.jpg
   teaser: /assets/images/stuffy-bunny-moment.jpg
+  caption: "Оригинал видео на английском (https://www.newgrounds.com/portal/view/741301)"
   #actions:
     #- label: "Смотреть сцены"
     #  url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
@@ -13,6 +14,7 @@ layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
 # categories: blowjob anal dp scenes
+
 gallery:
   - url: /assets/images/stuffy-bunny-moment.jpg # Необязательно, ссылка на полную версию для галереи
     image_path: /assets/images/stuffy-bunny-moment.jpg
@@ -35,7 +37,7 @@ gallery:
 [Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
 
-[Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--info .btn--large}{: target="_blank"}
+[Я подписан на канал, хочу ФУЛЛ видео на русском](https://t.me/c/1176368763/73){: .btn .btn--info .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
 
 [Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--danger .btn--large}{: target="_blank"}
