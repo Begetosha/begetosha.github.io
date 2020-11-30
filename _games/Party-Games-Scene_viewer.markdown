@@ -30,21 +30,14 @@ gallery:
     title: "Image 3 title caption"
 
 ---
-
 Смотри только то, *что понравилось*
 
-Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
+Просмотр сцен, написанный на HTML5
 
+[Смотреть сцены](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success}
 
-[Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--success} [Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--danger}
+[Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--success}
 
-[Смотри тут видео, сочнее сам еще не видел](https://t.me/c/1176368763/73)
+[Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--danger}
 
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-
-[Смотреть сцены (на весь экран)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
-
-
-[Onihole](https://uploads.ungrounded.net/603000/603921_Rock_Candy_[Onihole].swf)
+{% include gallery caption="Скриншоты из игры" %}
