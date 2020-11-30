@@ -4,7 +4,7 @@ header:
   og_image: /assets/images/stuffy-bunny-moment.jpg  
   image: /assets/images/stuffy-bunny-moment.jpg
   teaser: /assets/images/stuffy-bunny-moment.jpg
-  caption: "[*Оригинал видео на английском*](https://www.newgrounds.com/portal/view/741301){: target="_blank"}"
+  caption: "[*Оригинал видео на английском*](https://www.newgrounds.com/portal/view/741301)"
   #actions:
     #- label: "Смотреть сцены"
     #  url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
