@@ -32,7 +32,7 @@ gallery:
 ---
 Смотри только то, *что понравилось*
 
-Просмотр сцен, написанный на HTML5
+Просмотр сцен, игра на HTML5
 
 [Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
