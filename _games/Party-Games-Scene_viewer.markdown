@@ -8,8 +8,8 @@ header:
   actions:
     - label: "Играть"
       url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
-      - label: "Еще кнопка"
-        url: "https://t.me/c/1176368763/73"
+    - label: "Еще кнопка"
+      url: "https://t.me/c/1176368763/73"
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
