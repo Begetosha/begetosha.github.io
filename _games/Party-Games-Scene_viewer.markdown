@@ -2,14 +2,14 @@
 
 header:
   overlay_image: /assets/images/stuffy-bunny-moment.jpg
-  og_image: /assets/images/stuffy-bunny-moment.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  og_image: /assets/images/stuffy-bunny-moment.jpg  
   image: /assets/images/stuffy-bunny-moment.jpg
   teaser: /assets/images/stuffy-bunny-moment.jpg
   actions:
-    - label: "Learn more"
-      url: "https://unsplash.com"
-
+    - label: "Играть"
+      url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
+      - label: "Еще кнопка"
+        url: "https://t.me/c/1176368763/73"
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
@@ -30,8 +30,6 @@ gallery:
     title: "Image 3 title caption"
 
 ---
-
-Это пост в играх!
 
 
 Галерея для всех непристойных сцен в вечериночных играх - Впухлый кролик!
