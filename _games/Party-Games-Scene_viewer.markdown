@@ -1,5 +1,4 @@
 ---
-
 header:
   overlay_image: /assets/images/stuffy-bunny-moment.jpg
   og_image: /assets/images/stuffy-bunny-moment.jpg  
@@ -14,7 +13,6 @@ layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
 # categories: blowjob anal dp scenes
-
 gallery:
   - url: /assets/images/stuffy-bunny-moment.jpg
     image_path: /assets/images/stuffy-bunny-moment.jpg
@@ -34,7 +32,7 @@ gallery:
 
 Просмотр сцен, написанный на HTML5
 
-[Смотреть сцены](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success}
+[Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success}
 
 [Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--info}
 
