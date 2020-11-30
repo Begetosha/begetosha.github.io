@@ -34,7 +34,7 @@ gallery:
 
 [Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/)
 {: .btn .btn--success .btn--large}
-{:target="_blank"}
+{: target="_blank"}
 {: style="text-align: center;"}
 
 [Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--info .btn--large}
