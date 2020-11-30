@@ -22,8 +22,8 @@ gallery:
     image_path: /assets/images/stuffy-bunny-moment-3.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/stuffy-bunny-moment-2.jpg
-    image_path: /assets/images/stuffy-bunny-moment-2.jpg
+  - url: /assets/images/testgif.gif
+    image_path: /assets/images/testgif.gif
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
