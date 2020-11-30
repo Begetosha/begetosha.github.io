@@ -35,10 +35,10 @@ gallery:
 [Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
 
-[Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--success .btn--large}{: target="_blank"}
+[Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--info .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
 
-[Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--success .btn--large}{: target="_blank"}
+[Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--danger .btn--large}{: target="_blank"}
 {: style="text-align: center;"}
 
 {% include gallery caption="Скриншоты из игры" type="center" %}
