@@ -4,11 +4,11 @@ header:
   og_image: /assets/images/stuffy-bunny-moment.jpg  
   image: /assets/images/stuffy-bunny-moment.jpg
   teaser: /assets/images/stuffy-bunny-moment.jpg
-  actions:
-    - label: "Смотреть сцены"
-      url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
-    - label: "ФУЛЛ с переводом в телеграме"
-      url: "https://t.me/c/1176368763/73"
+  #actions:
+    #- label: "Смотреть сцены"
+    #  url: "https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/"
+    #- label: "ФУЛЛ с переводом в телеграме"
+    #  url: "https://t.me/c/1176368763/73"
 layout: single
 title:  "Вечериночные игры, ПОРНО сцены"
 date:   2020-11-09 17:04:53 +1200
@@ -33,9 +33,7 @@ gallery:
 Просмотр сцен, написанный на HTML5
 
 [Смотреть сцены (аккуратно, долго грузятся)](https://uploads.ungrounded.net/alternate/1393000/1393224_alternate_87460_r1.zip/){: .btn .btn--success}
-
 [Я подписан на канал, хочу ФУЛЛ на русском](https://t.me/c/1176368763/73){: .btn .btn--info}
-
 [Сначала подпишусь, а то не пустят 😢](https://t.me/joinchat/AAAAAEYd9ntbFRi6jnMcFg){: .btn .btn--danger}
 
 {% include gallery caption="Скриншоты из игры" %}
